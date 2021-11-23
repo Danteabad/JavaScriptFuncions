@@ -10,3 +10,10 @@
 //}
 //hola('Dante ', 'Abad')
 //typeof hola
+
+//EX3
+function fecha(){
+    const data = new Date()
+    console.log(data)
+}
+fecha();
