@@ -25,3 +25,13 @@
 //}
 //dante();
 
+//EX5
+/*function vocales(str) { 
+
+    const count = str.match(/[aeiou]/gi).length;
+    return count;
+}
+var palabra = 'patidifuso';
+const result = vocales(palabra);
+console.log(result);*/
+
