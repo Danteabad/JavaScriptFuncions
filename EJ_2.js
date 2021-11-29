@@ -86,3 +86,14 @@ console.log(nom('DANTE ABAD'))*/
         return [a,b]
 }
 console.log(valor(34,null))*/
+
+//EX14
+/*var posicio = (a,b) => {
+    return (a.length-a.indexOf(b))
+}
+console.log(posicio('Hola soc en Dante','en'));
+
+var dividir = (a,b) => {
+    return b.substr(a,b.length)
+}
+console.log(dividir(posicio('Hola soc en Dante','en'),'Hola soc en Dante'))*/
