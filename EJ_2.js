@@ -35,3 +35,11 @@ var palabra = 'patidifuso';
 const result = vocales(palabra);
 console.log(result);*/
 
+//EX6
+/*function suma(){
+    return a,b,c
+    }
+    var a = 20
+    var b = 15
+    var c = 10
+console.log (a+b+c)*/
