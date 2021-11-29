@@ -43,3 +43,11 @@ console.log(result);*/
     var b = 15
     var c = 10
 console.log (a+b+c)*/
+
+//EX8
+/*function num(a,b){
+    if (a == 30 || b == 30 || a + b == 30){
+        return true
+    }
+}
+console.log(num(30,15))*/
