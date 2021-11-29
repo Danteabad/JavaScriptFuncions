@@ -75,3 +75,14 @@ console.log(arrel(25.84))*/
 //EX12
 /*var nom = a => a.toLowerCase()
 console.log(nom('DANTE ABAD'))*/
+
+//EX13
+/*var valor = (a,b) => {
+    if (a!=null && b==null)
+        return a
+    else if (a==null && b!=null)
+        return b
+    else if (a!=null && b!=null)
+        return [a,b]
+}
+console.log(valor(34,null))*/
