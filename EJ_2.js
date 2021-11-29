@@ -59,3 +59,11 @@ console.log(num(30,15))*/
     }
 }
 console.log(num(15,15))*/
+
+//EX10
+/*var num = (a,b) => {
+    if (a===b)
+    return true
+    else return false
+}
+console.log(num(17,7))*/
