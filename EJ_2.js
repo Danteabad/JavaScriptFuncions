@@ -97,3 +97,10 @@ var dividir = (a,b) => {
     return b.substr(a,b.length)
 }
 console.log(dividir(posicio('Hola soc en Dante','en'),'Hola soc en Dante'))*/
+
+//EX15
+/*var funcio1 = (x) => x + x + x
+console.log(funcio1(47))
+
+var funcio2 = (p, n, r, t) => p * Math.pow(1 + (r / n), n * t)
+console.log(funcio2(8,4,2,5))*/
