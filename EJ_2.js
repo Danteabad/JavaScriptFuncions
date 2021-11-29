@@ -71,3 +71,7 @@ console.log(num(17,7))*/
 //EX11
 /*var arrel = a => Math.sqrt(a).toFixed(2)
 console.log(arrel(25.84))*/
+
+//EX12
+/*var nom = a => a.toLowerCase()
+console.log(nom('DANTE ABAD'))*/
